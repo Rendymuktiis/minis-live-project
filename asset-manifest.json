@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/minis-live-project/static/css/main.3d3f02a0.css",
+    "main.js": "/minis-live-project/static/js/main.e228d334.js",
+    "static/media/logo.png": "/minis-live-project/static/media/logo.460ebb7ff217f0673d34.png",
+    "static/media/cover_not_found.jpg": "/minis-live-project/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/library-img.jpg": "/minis-live-project/static/media/library-img.b1e1bcda2e639911de2a.jpg",
+    "index.html": "/minis-live-project/index.html",
+    "static/media/loader.svg": "/minis-live-project/static/media/loader.7a77db7fdd7bf9b9a7ee949779801b13.svg",
+    "main.3d3f02a0.css.map": "/minis-live-project/static/css/main.3d3f02a0.css.map",
+    "main.e228d334.js.map": "/minis-live-project/static/js/main.e228d334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3f02a0.css",
+    "static/js/main.e228d334.js"
+  ]
+}
